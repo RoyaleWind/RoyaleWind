@@ -1,4 +1,4 @@
-# Hi theare, I'm RoyaleWind!
+# Hi  there, I'm RoyaleWind!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyaleWind&show_icons=true&theme=github_dark)
 
 # THINGS I AM USING OR I HAD USED
