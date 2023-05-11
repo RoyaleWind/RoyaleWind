@@ -1,6 +1,5 @@
 # Hi  there, I'm RoyaleWind!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyaleWind&show_icons=true&theme=github_dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 # THINGS I AM USING OR I HAD USED
 
