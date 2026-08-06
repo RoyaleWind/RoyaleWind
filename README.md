@@ -15,7 +15,7 @@ I build software, tools, and games with a focus on performance, maintainability,
 
 ### Frameworks & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=bun,dotnet,nodejs,react,npm" />
+  <img src="https://skillicons.dev/icons?i=bun,dotnet,nodejs,react,npm,discordjs" />
 </p>
 
 ### Databases
@@ -40,7 +40,7 @@ I build software, tools, and games with a focus on performance, maintainability,
 
 ### Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://skillicons.dev/icons?i=windows,debian,apple" />
 </p>
 
 ---
